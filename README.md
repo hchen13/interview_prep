@@ -6,8 +6,8 @@ This document is served as and overview and an action plan aimed at preparing fo
 
 Algorithms to be covered includes:
 
-1. The big-O notations
-2. divide and conquer
+1. [The big-O notations](algorithms/big_o_notation.ipynb)
+2. [divide and conquer](algorithms/divide_and_conquer.ipynb)
 3. insertion sort
 4. heapsort
 5. quicksort
