@@ -8,7 +8,7 @@ Algorithms to be covered includes:
 
 1. [The big-O notations](algorithms/big_o_notation.ipynb)
 2. [divide and conquer](algorithms/divide_and_conquer.ipynb)
-3. insertion sort
+3. [insertion sort](algorithms/insertion_sort.ipynb)
 4. heapsort
 5. quicksort
 6. radix sort
